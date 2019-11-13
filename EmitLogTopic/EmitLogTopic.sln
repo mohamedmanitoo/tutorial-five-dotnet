@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmitLogTopic", "EmitLogTopic\EmitLogTopic.csproj", "{836939D4-A1D8-4408-AF18-292C763DDBB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{836939D4-A1D8-4408-AF18-292C763DDBB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836939D4-A1D8-4408-AF18-292C763DDBB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836939D4-A1D8-4408-AF18-292C763DDBB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836939D4-A1D8-4408-AF18-292C763DDBB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F998D739-8CDE-4591-87FC-483440257C8A}
+	EndGlobalSection
+EndGlobal

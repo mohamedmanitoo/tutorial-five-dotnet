@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiveLogsTopic", "ReceiveLogsTopic\ReceiveLogsTopic.csproj", "{82FEDEC3-C71E-4ED2-B966-F323160CAFEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82FEDEC3-C71E-4ED2-B966-F323160CAFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82FEDEC3-C71E-4ED2-B966-F323160CAFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82FEDEC3-C71E-4ED2-B966-F323160CAFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82FEDEC3-C71E-4ED2-B966-F323160CAFEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04D1671A-6F13-480D-938D-F7E7B900C0B4}
+	EndGlobalSection
+EndGlobal
